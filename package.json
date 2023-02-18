@@ -1,0 +1,26 @@
+{
+  "name": "nnfs",
+  "version": "1.0.0",
+  "description": "Neural networks from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talama/NNFS.git"
+  },
+  "author": "Talama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talama/NNFS/issues"
+  },
+  "homepage": "https://github.com/talama/NNFS#readme",
+  "devDependencies": {
+    "eslint": "^8.34.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-import": "^2.27.5",
+    "prettier": "2.8.4"
+  }
+}
